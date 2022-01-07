@@ -1,0 +1,27 @@
+nav {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  min-height: 10vh;
+  border-bottom: 1px solid #f6f6f6;
+}
+.nav-ul {
+  list-style: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px;
+
+}
+
+.logo {
+  height: 40px;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+.dark {
+color: black;
+font-size: large;
+}
+.nav-hv:hover{
+  color: pink;
+}

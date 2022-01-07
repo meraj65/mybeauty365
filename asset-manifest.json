@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mybeauty365/static/css/main.725697b3.chunk.css",
+    "main.js": "/mybeauty365/static/js/main.29b12570.chunk.js",
+    "main.js.map": "/mybeauty365/static/js/main.29b12570.chunk.js.map",
+    "runtime-main.js": "/mybeauty365/static/js/runtime-main.ab76e64a.js",
+    "runtime-main.js.map": "/mybeauty365/static/js/runtime-main.ab76e64a.js.map",
+    "static/css/2.d767e080.chunk.css": "/mybeauty365/static/css/2.d767e080.chunk.css",
+    "static/js/2.afed07a3.chunk.js": "/mybeauty365/static/js/2.afed07a3.chunk.js",
+    "static/js/2.afed07a3.chunk.js.map": "/mybeauty365/static/js/2.afed07a3.chunk.js.map",
+    "static/js/3.b586eeb9.chunk.js": "/mybeauty365/static/js/3.b586eeb9.chunk.js",
+    "static/js/3.b586eeb9.chunk.js.map": "/mybeauty365/static/js/3.b586eeb9.chunk.js.map",
+    "index.html": "/mybeauty365/index.html",
+    "static/css/2.d767e080.chunk.css.map": "/mybeauty365/static/css/2.d767e080.chunk.css.map",
+    "static/css/main.725697b3.chunk.css.map": "/mybeauty365/static/css/main.725697b3.chunk.css.map",
+    "static/js/2.afed07a3.chunk.js.LICENSE.txt": "/mybeauty365/static/js/2.afed07a3.chunk.js.LICENSE.txt",
+    "static/media/beauty.0ae00fec.png": "/mybeauty365/static/media/beauty.0ae00fec.png",
+    "static/media/card-1.55f1fdc5.png": "/mybeauty365/static/media/card-1.55f1fdc5.png",
+    "static/media/card-2.d82b5182.png": "/mybeauty365/static/media/card-2.d82b5182.png",
+    "static/media/favicon.c7820684.ico": "/mybeauty365/static/media/favicon.c7820684.ico",
+    "static/media/product-2.e87d2364.jpg": "/mybeauty365/static/media/product-2.e87d2364.jpg",
+    "static/media/quiz.deda331b.png": "/mybeauty365/static/media/quiz.deda331b.png",
+    "static/media/slider1.3a05f318.jpg": "/mybeauty365/static/media/slider1.3a05f318.jpg",
+    "static/media/slider2.9423d58a.jpg": "/mybeauty365/static/media/slider2.9423d58a.jpg",
+    "static/media/slider3.50eafc94.jpg": "/mybeauty365/static/media/slider3.50eafc94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab76e64a.js",
+    "static/css/2.d767e080.chunk.css",
+    "static/js/2.afed07a3.chunk.js",
+    "static/css/main.725697b3.chunk.css",
+    "static/js/main.29b12570.chunk.js"
+  ]
+}

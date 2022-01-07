@@ -12,7 +12,7 @@ function CardProduct() {
     <div className="row main-card">
       <div className="col-6">
         <Card className="main-card card-h">
-          <Link to="/category " className="img-link">
+          <Link to="/category " className="img-link ">
             <Card.Img variant="top" src={card1} />
 
             <Card.Body>
